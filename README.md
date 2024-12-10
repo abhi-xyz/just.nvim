@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**Neovim plugin for encrypting and decrypting text files inside neovim with ease.**
+**Neovim plugin for encrypting and decrypting text files inside neovim using `age` with ease.**
 
 </div>
 
